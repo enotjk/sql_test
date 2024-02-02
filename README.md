@@ -3,9 +3,11 @@
 
 ![image](https://github.com/enotjk/sql_test/assets/129334043/847f5128-7411-4461-be7c-b02add7ee080)
 
-[Создание таблицы](https://github.com/enotjk/sql_test/blob/main/create_table.sql)
-[Заполнения колонки contractid](https://github.com/enotjk/sql_test/blob/main/fill_contractid.sql)
-[Заполнение таблицы](https://github.com/enotjk/sql_test/blob/main/main.sql)
+*[Создание таблицы](https://github.com/enotjk/sql_test/blob/main/create_table.sql)
+
+*[Заполнения колонки contractid](https://github.com/enotjk/sql_test/blob/main/fill_contractid.sql)
+
+[*Заполнение таблицы](https://github.com/enotjk/sql_test/blob/main/main.sql)
 
 
 
