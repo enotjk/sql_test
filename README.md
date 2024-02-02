@@ -1,5 +1,5 @@
 # sql_test
-[Phones]([create tables/Create-table_Enquiries.sql](https://github.com/enotjk/sql_test/blob/main/create%20tables/Create-table_Enquiries.sql))
+![Phones]([create tables/Create-table_Enquiries.sql](https://github.com/enotjk/sql_test/blob/main/create%20tables/Create-table_Enquiries.sql))
 ![image](https://github.com/enotjk/sql_test/assets/129334043/c03a7459-be00-4a18-a1a8-2e31c377c223)
 
 ## Enquiries
