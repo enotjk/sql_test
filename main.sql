@@ -7,7 +7,7 @@ WITH maintable AS (
 	FROM
 		enquiries e
 		JOIN phones p ON e.contractid = p.contractid
-		AND e.regdate >= CURRENT_DATE - INTERVAL '30 days'
+		AND e.regdate >= DATEADD(DAY, -30, GETDATE())
 		AND p.status <> 'notactual'
 	GROUP BY
 		e.contractid,
