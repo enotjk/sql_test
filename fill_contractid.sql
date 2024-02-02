@@ -1,9 +1,6 @@
 WITH maintable AS (
 	SELECT
-		e.contractid,
-		p.phone AS primaryphone,
-		COUNT(e.inquiryid) AS totalqueries,
-		MAX(e.regdate) AS lastregistrationdate
+		e.contractid
 	FROM
 		enquiries e
 		JOIN phones p ON e.contractid = p.contractid
@@ -11,8 +8,6 @@ WITH maintable AS (
 		AND p.status <> 'notactual'
 	GROUP BY
 		e.contractid,
-		p.phone,
-		p.status
 ) 
 
 INSERT INTO uniquesubscribers (contractid)
