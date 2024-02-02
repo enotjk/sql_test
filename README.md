@@ -1,4 +1,11 @@
 # sql_test
+## result
+
+![image](https://github.com/enotjk/sql_test/assets/129334043/847f5128-7411-4461-be7c-b02add7ee080)
+
+
+
+
 
 [Phones](https://github.com/enotjk/sql_test/blob/main/create%20tables/Create-table_Enquiries.sql)
 
